@@ -1,4 +1,4 @@
-# JS-Portfolio
+# Javier Sosa-Portfolio
 
 This portfolio opens on HTML starting with index.html
 
